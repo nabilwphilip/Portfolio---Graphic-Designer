@@ -32,6 +32,7 @@ To connect a domain, go to your [Vercel dashboard](https://vercel.com/dashboard)
 1. Navigate to **Settings > Domains**  
 2. Click **Add Domain**  
 3. Follow the instructions to configure your DNS and finish setup
+4. Admin Panel: Integrated dashboard for full website control
 
 Read more here: [Vercel Custom Domain Docs](https://vercel.com/docs/concepts/projects/custom-domains)
 
